@@ -49,6 +49,9 @@ pip install -r requirements.txt
 
 Run any project individually.
 
+```bash
+python filename.py
+```
 ---
 
 ## 🔥 Highlights
